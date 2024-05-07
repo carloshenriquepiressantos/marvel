@@ -1,0 +1,4 @@
+{
+    "cmake.configureOnOpen": true,
+    "editor.semanticHighlighting.enabled": false
+}
